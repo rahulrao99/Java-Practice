@@ -8,7 +8,7 @@ class Main{
         for(int i=0;i<n;i++){
             arr[i]=sc.nextInt();
         }
-        System.out.println("the reversed arra is");
+        System.out.println("the reversed array is");
         int i=0;
         int j=arr.length-1;
         
